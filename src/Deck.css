@@ -1,0 +1,7 @@
+.Deck {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    margin: 15px;
+}

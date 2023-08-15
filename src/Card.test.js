@@ -1,6 +1,6 @@
 import { render, screen } from '@testing-library/react';
-import App from './App';
+import Card from './Card';
 
 test('renders without crashing', () => {
-  render(<App />);
+  render(<Card />);
 });
